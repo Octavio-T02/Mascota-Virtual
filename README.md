@@ -2,7 +2,7 @@
 
 # 🐾 Uni The Cat
 
-### Pixel Art Desktop Pet
+### Pixel Art Desktop Pet For Linux
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
