@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐾 Uni The Cat (`@unicat_uni`)
+# 🐾 Uni The Cat
 
 ### Pixel Art Desktop Pet
 
